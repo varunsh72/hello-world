@@ -8,5 +8,4 @@ master
 again & again
 its readme-edit file of master branch
 =======
-bhahahahaha
-readme-edits
+Thse are fa changes on 19th May-2018
